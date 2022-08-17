@@ -1,7 +1,8 @@
  Gitfun
-# just some diffrent markup
-# As a #devops, 
-# I want to,
+ just some diffrent markup
+ As a
+ #devops, 
+#I want to,
 ```Javascript
 
 function sample(arr, req) {
@@ -15,7 +16,7 @@ function sample(arr, req) {
         return array
     }
 ```
-# as a devops,
+ as a devops,
 # I want to, 
 ```java
 
