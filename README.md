@@ -1,7 +1,7 @@
-#Gitfun
-#just some diffrent markup
-#As a #devops, 
-#I want to,
+ Gitfun
+# just some diffrent markup
+# As a #devops, 
+# I want to,
 ´´´Javascript
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
@@ -15,7 +15,7 @@ function sample(arr, req) {
     }
 
 ´´´
-#as a devops,
-#i want to, 
+# as a devops,
+# I want to, 
 ´´´java
 ´´´
