@@ -3,6 +3,7 @@
 # As a #devops, 
 # I want to,
 ´´´Javascript
+
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
         let i = 0,
@@ -13,9 +14,9 @@ function sample(arr, req) {
         }
         return array
     }
-
 ´´´
 # as a devops,
 # I want to, 
 ´´´java
+
 ´´´
