@@ -1,9 +1,8 @@
 Gitfun
-#just some diffrent markups
-#
+#just some diffrent markup
 #As a #devops, 
 #I want to,
-´´´JS
+´´´Javascript
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
         let i = 0,
