@@ -24,7 +24,4 @@ function sample(arr, req) {
 ```java
 
 ```
-# So that
-when i need to do it i can find instructions.
-# DOD
-Devops Collegues user instructions
+:smile:
