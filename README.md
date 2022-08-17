@@ -16,8 +16,14 @@ function sample(arr, req) {
         return array
     }
 ```
- as a devops,
+
+
+# as a devops,
 # I want to, 
 ```java
 
 ```
+# So that
+when i need to do it i can find instructions.
+# DOD
+Devops Collegues user instructions
