@@ -1,7 +1,7 @@
 # Gitfun
  just some diffrent markup
  As a
- #devops, 
+# devops, 
 # I want to,
 ```Javascript
 
