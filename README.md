@@ -2,7 +2,7 @@
 # just some diffrent markup
 # As a #devops, 
 # I want to,
-´´´Javascript
+```Javascript
 
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
@@ -14,9 +14,9 @@ function sample(arr, req) {
         }
         return array
     }
-´´´
+```
 # as a devops,
 # I want to, 
-´´´java
+```java
 
-´´´
+```
