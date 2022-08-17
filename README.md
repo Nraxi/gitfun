@@ -1,8 +1,8 @@
- gitfun
-just some diffrent markups
-
-As a #devops, 
-I want to,
+Gitfun
+#just some diffrent markups
+#
+#As a #devops, 
+#I want to,
 ´´´JS
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
